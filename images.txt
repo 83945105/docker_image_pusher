@@ -1,4 +1,4 @@
 redis:5.0.14
 mysql:5.7.18
 nginx:1.25.3
-139.224.230.5:5001/cloud-iot-service:1.0.8
+nacos/nacos-server:v2.3.2
